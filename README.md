@@ -60,7 +60,7 @@ class ExperimentConfiguration:
 
 ## AutoTrain
 
-A hyper-parameter search grid is defined in `script.py`. The `script.py` is later called to start the training process using [AutoTrain](https://github.com/huggingface/autotrain-advanced) library.
+A hyper-parameter search grid is defined in [`script.py`](script.py). This file is later called to start the training process using [AutoTrain](https://github.com/huggingface/autotrain-advanced) library.
 
 More precisely, the [AutoTrain](https://github.com/huggingface/autotrain-advanced) training is started with:
 

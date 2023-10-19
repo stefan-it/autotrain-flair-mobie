@@ -1,7 +1,8 @@
-# Fine-tune Flair Models on German MobIE Dataset with 🤗 AutoTrain
+# Fine-tune Flair Models on German MobIE Dataset with 🤗 AutoTrain SpaceRunner
 
 This repository shows how to fine-tune Flair models on the [German MobIE](https://aclanthology.org/2021.konvens-1.22/)
-NER dataset using the awesome [AutoTrain](https://github.com/huggingface/autotrain-advanced) library.
+NER dataset using the awesome 🤗 [AutoTrain](https://github.com/huggingface/autotrain-advanced) library with
+[SpaceRunner](https://twitter.com/abhi1thakur/status/1697165317452026363).
 
 ## Dataset
 
@@ -62,7 +63,8 @@ class ExperimentConfiguration:
 
 A hyper-parameter search grid is defined in [`script.py`](script.py). This file is later called to start the training process using [AutoTrain](https://github.com/huggingface/autotrain-advanced) library.
 
-More precisely, the [AutoTrain](https://github.com/huggingface/autotrain-advanced) training is started with:
+More precisely, [AutoTrain](https://github.com/huggingface/autotrain-advanced) with
+[SpaceRunner](https://twitter.com/abhi1thakur/status/1697165317452026363) is used to start the training with:
 
 ```bash
 $  export HF_TOKEN="<HF_TOKEN>" # Get token from: https://huggingface.co/settings/tokens

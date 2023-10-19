@@ -76,6 +76,10 @@ $ autotrain spacerunner --project-name "flair-mobie" \
   --env "HF_TOKEN=$HF_TOKEN;HUB_ORG_NAME=stefan-it"
 ```
 
+Training of all 10 models on MobIE dataset took 4 hours and 34 minutes on a T4 small instance and costs 2.74$ in total:
+
+![AutoTrain Costs](images/autotrain-costs.png)
+
 ## Hyper-Parameter Search
 
 In this example the following hyper-parameter search grid is used:

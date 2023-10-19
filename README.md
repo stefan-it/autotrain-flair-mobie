@@ -88,7 +88,9 @@ In this example the following hyper-parameter search grid is used:
 * Learning Rates = `[3e-05, 5e-05]`
 * Seeds = `[1, 2, 3, 4, 5]`
 
-This means 10 models will be fine-tuned in total (1 x 2 x 5 = 10). The hyper-parameter search grid can easily be extended.
+This means 10 models will be fine-tuned in total (1 x 2 x 5 = 10). The hyper-parameter
+[search grid](https://github.com/stefan-it/autotrain-flair-mobie/blob/dbf6239891b7bda6f60c5d6fc5beeaa8af3818c9/script.py#L21-L23)
+can easily be extended.
 
 ## Model Upload
 

@@ -115,18 +115,7 @@ All fine-tuned models for this tutorial are available on the Hugging Face Model 
 
 ![Inference Widget](images/inference-widget.png)
 
-Here's an overview of all fine-tuned models:
-
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr5e-05-1
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr5e-05-2
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr5e-05-3
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr5e-05-4
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr5e-05-5
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr3e-05-1
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr3e-05-2
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr3e-05-3
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr3e-05-4
-* https://hf.co/stefan-it/autotrain-flair-mobie-gbert_base-bs16-e10-lr3e-05-5
+All fine-tuned models can be found [here](https://hf.co/models?search=autotrain-flair-mobie-gbert_base).
 
 # Changelog
 

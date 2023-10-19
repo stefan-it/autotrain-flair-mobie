@@ -1,4 +1,4 @@
-# Fine-tune Flair Models on German MobIE Dataset with AutoTrain
+# Fine-tune Flair Models on German MobIE Dataset with 🤗 AutoTrain
 
 This repository shows how to fine-tune Flair models on the [German MobIE](https://aclanthology.org/2021.konvens-1.22/)
 NER dataset using the awesome [AutoTrain](https://github.com/huggingface/autotrain-advanced) library.

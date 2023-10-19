@@ -1,0 +1,2 @@
+transformers==4.34.1
+git+https://github.com/flairNLP/flair.git@42ea3f6854eba04387c38045f160c18bdaac07dc

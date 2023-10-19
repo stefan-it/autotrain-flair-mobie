@@ -94,7 +94,7 @@ This means 10 models will be fine-tuned in total (1 x 2 x 5 = 10). The hyper-par
 
 After each model is fine-tuned, it will automatically be uploaded to the Hugging Model Hub. The following files are uploaded:
 
-* `pytorch-model.bin`: Flair internally stores the best model as `best-model.pt` over all epochs. To be compatible with the Model Hub the `best-model.pt` is renamed automatically to `pytorch_model.bin`
+* `pytorch-model.bin`: Flair internally tracks the best model as `best-model.pt` over all epochs. To be compatible with the Model Hub the `best-model.pt`, is renamed automatically to `pytorch_model.bin`
 * `training.log`: Flair stores the training log in `training.log`. This file is later needed to parse the best F1-score on development set
 * `./runs`: In this folder the TensorBoard logs are stored. This enables a nice display of metrics on the Model Hub
 

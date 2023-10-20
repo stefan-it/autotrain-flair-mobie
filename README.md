@@ -115,7 +115,8 @@ All fine-tuned models for this tutorial are available on the Hugging Face Model 
 
 ![Inference Widget](images/inference-widget.png)
 
-All fine-tuned models can be found [here](https://hf.co/models?search=autotrain-flair-mobie-gbert_base).
+All fine-tuned models can be found [here](https://hf.co/models?search=autotrain-flair-mobie-gbert_base). Additionally,
+they can be found in [this collection](https://huggingface.co/collections/stefan-it/fine-tuned-flair-models-on-german-mobie-dataset-6531c6ccd477c43e799c3e54).
 
 # Changelog
 

@@ -120,4 +120,5 @@ they can be found in [this collection](https://huggingface.co/collections/stefan
 
 # Changelog
 
+* 21.10.2023: Blog post for this repository is online [here](https://huggingface.co/blog/stefan-it/autotrain-flair-mobie).
 * 19.10.2023: Initial version of this repository.
